@@ -1,0 +1,51 @@
+ticket_id,message,intent,priority,escalate
+1,I was charged twice,Billing,High,Yes
+2,I need a refund,Billing,High,Yes
+3,Wrong amount on invoice,Billing,High,Yes
+4,Please reverse my payment,Billing,High,Yes
+5,I was overcharged,Billing,High,Yes
+6,Refund not received,Billing,High,Yes
+7,Cancel my subscription,Billing,High,Yes
+8,Incorrect billing,Billing,High,Yes
+9,Duplicate charge,Billing,High,Yes
+10,My bill is too high,Billing,High,Yes
+11,App keeps crashing,Technical,High,Yes
+12,Cannot login,Technical,High,Yes
+13,Website not loading,Technical,High,Yes
+14,Password reset not working,Technical,High,Yes
+15,Getting error on screen,Technical,High,Yes
+16,App is very slow,Technical,High,Yes
+17,Cannot upload file,Technical,High,Yes
+18,Page is blank after login,Technical,High,Yes
+19,Notifications not working,Technical,High,Yes
+20,Search feature is broken,Technical,High,Yes
+21,Order not arrived,Shipping,Medium,No
+22,Where is my package,Shipping,Medium,No
+23,Delivery is delayed,Shipping,Medium,No
+24,Wrong item delivered,Shipping,Medium,No
+25,Package shows delivered but not received,Shipping,Medium,No
+26,I want to change delivery address,Shipping,Medium,No
+27,Package was damaged,Shipping,Medium,No
+28,Order stuck in transit,Shipping,Medium,No
+29,Missing items in order,Shipping,Medium,No
+30,How long is shipping,Shipping,Medium,No
+31,Cannot access my account,Account,Medium,No
+32,How to delete account,Account,Medium,No
+33,Change my email,Account,Medium,No
+34,Account got suspended,Account,Medium,No
+35,I forgot my username,Account,Medium,No
+36,How to change password,Account,Medium,No
+37,Account shows wrong name,Account,Medium,No
+38,Need to verify identity,Account,Medium,No
+39,Account settings not saving,Account,Medium,No
+40,Account locked,Account,Medium,No
+41,How does your service work,General,Low,No
+42,What are business hours,General,Low,No
+43,Do you have a mobile app,General,Low,No
+44,What payment methods accepted,General,Low,No
+45,Is there a free trial,General,Low,No
+46,What is your return policy,General,Low,No
+47,How to use promo code,General,Low,No
+48,Do you offer student discount,General,Low,No
+49,How to contact support,General,Low,No
+50,Are my details safe,General,Low,No
